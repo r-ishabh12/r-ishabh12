@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-ishabh12&" alt="r-ishabh12" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-ishabh12&" alt="r-ishabh12" /></p>
 
