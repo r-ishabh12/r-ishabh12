@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-CCqkmzrZ_pjkb76lyZLNsxvcnNJ6_Nv/view?usp=drive_link)
 
-- ⚡ Fun fact **I think i am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/rhbhjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rhbhjain" height="30" width="40" /></a>
